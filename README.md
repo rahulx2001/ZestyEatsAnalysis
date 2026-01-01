@@ -15,7 +15,7 @@
 
 <br>
 
-[📊 Dashboards](#-dashboard-pages) • [💡 Key Insights](#-key-insights) • [🛠️ Technical Details](#️-technical-skills-demonstrated) • [🚀 Get Started](#-quick-start)
+[📊 Dashboards](#-dashboard-pages) • [💡 Key Insights](#-key-insights) • [🛠️ Technical Details](#️-technical-skills-demonstrated) • [📋 Case Study](CASE_STUDY.md) • [🚀 Get Started](#-quick-start)
 
 </div>
 
